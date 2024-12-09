@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\c\u002B\u002B\\consoleLife\\ConsoleGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35169109-44F7-42BB-90C5-A0732E3058D6}|ConsoleGenerator\\ConsoleGenerator.vcxproj|F:\\c\u002B\u002B\\consoleLife\\ConsoleGenerator\\ConsoleGenerator\\ConsoleGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35169109-44F7-42BB-90C5-A0732E3058D6}|ConsoleGenerator\\ConsoleGenerator.vcxproj|solutionrelative:ConsoleGenerator\\ConsoleGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleGenerator.cpp",
+              "DocumentMoniker": "F:\\c\u002B\u002B\\consoleLife\\ConsoleGenerator\\ConsoleGenerator\\ConsoleGenerator.cpp",
+              "RelativeDocumentMoniker": "ConsoleGenerator\\ConsoleGenerator.cpp",
+              "ToolTip": "F:\\c\u002B\u002B\\consoleLife\\ConsoleGenerator\\ConsoleGenerator\\ConsoleGenerator.cpp",
+              "RelativeToolTip": "ConsoleGenerator\\ConsoleGenerator.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-09T14:21:02.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

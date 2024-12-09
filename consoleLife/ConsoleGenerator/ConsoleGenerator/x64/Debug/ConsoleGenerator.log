@@ -1,0 +1,5 @@
+﻿  ConsoleGenerator.cpp
+F:\c++\consoleLife\ConsoleGenerator\ConsoleGenerator\ConsoleGenerator.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\c++\consoleLife\ConsoleGenerator\ConsoleGenerator\ConsoleGenerator.cpp(12,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+F:\c++\consoleLife\ConsoleGenerator\ConsoleGenerator\ConsoleGenerator.cpp(13,11): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+  ConsoleGenerator.vcxproj -> F:\c++\consoleLife\ConsoleGenerator\x64\Debug\ConsoleGenerator.exe
